@@ -6,13 +6,6 @@ A fully responsive landing page for a fictional dog dating application ("Tinder 
 
 A responsive, modern landing page for a fictional application called **TinDog** (Tinder for Dogs). This project was built to practice using the **Bootstrap** framework for layout and responsiveness.
 
-## 📸 Preview
-*(Tip: Take a screenshot of your website, put it in the folder, and replace this text with: `![TinDog Screenshot](screenshot.png)`) - or delete this line if you don't have one yet.*
-
-## 🚀 Live Demo
-*(If you have published this on GitHub Pages, paste the link here. If not, delete this section!)*
-- [View Live Site](https://your-username.github.io/TinDog)
-
 ## 🛠️ Built With
 - **HTML5**: Semantic structure.
 - **CSS3**: Custom styling and layout adjustments.
@@ -32,4 +25,4 @@ A responsive, modern landing page for a fictional application called **TinDog** 
 - Managing media queries to ensure the site looks good on all devices.
 
 ---
-*This project is part of The Complete 2024 Web Development Bootcamp by Angela Yu.*
+*This project is part of The Complete 2025 Web Development Bootcamp by Angela Yu.*
