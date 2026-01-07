@@ -1,10 +1,12 @@
-# First-HTML-And-CSS-Project-Tindog
-A fully responsive landing page for a fictional dog dating application ("Tinder for Dogs"). Built using HTML5, CSS3, and the Bootstrap framework.
-
-
 # 🐾 TinDog - Tinder for Dogs
 
 A responsive, modern landing page for a fictional application called **TinDog** (Tinder for Dogs). This project was built to practice using the **Bootstrap** framework for layout and responsiveness.
+
+## 📸 Preview
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/486a0352-f68f-402a-9435-5fe92e2438a0" />
+
+## 🚀 Live Demo
+[View Live Site]([https://omar14352465.github.io/First-HTML-And-CSS-Project-Tindog/](https://omar14352465.github.io/First-HTML-And-CSS-Project-Tindog/11.3%20TinDog%20Project/))
 
 ## 🛠️ Built With
 - **HTML5**: Semantic structure.
